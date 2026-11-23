@@ -1,0 +1,6 @@
+miner.conf
+miner.log
+gpu-tune
+supervisor.*
+t-rex
+.t-rex.*
